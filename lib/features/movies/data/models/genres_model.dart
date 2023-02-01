@@ -1,4 +1,3 @@
-
 import 'package:movies_app/features/movies/domain/entities/genres.dart';
 
 class GenresModel extends Genres {
